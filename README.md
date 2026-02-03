@@ -2,7 +2,7 @@
   <img src="assets/Motoca.svg" width="180"/>
 </div>
 
-<h1 align="center">Alex Damaged</h1>
+<h1 align="center">NVSCA</h1>
 
 <p align="center">
 Cybersecurity Student • Backend Foundations • Linux & Cloud
