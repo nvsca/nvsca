@@ -2,7 +2,7 @@
   <img src="assets/Motoca.svg" width="180"/>
 </div>
 
-<h1 align="center">Alexsandro C Rodrigues//nvsca</h1>
+<h1 align="center">Alexsandro C Rodrigues // nvsca</h1>
 
 <p align="center">
 Cybersecurity Student • Backend Foundations • Linux & Cloud
