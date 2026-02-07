@@ -2,30 +2,22 @@
   <img src="assets/Motoca.svg" width="140" alt="Motorcycle logo" />
 </div>
 
-<h1 align="center">Alexsandro C Rodrigues</h1>
+# Alexsandro C. Rodrigues // nvsca
 
-<p align="center">
-Cybersecurity • Backend • Linux & Cloud
-</p>
+Cloud Security em formação, com foco em **AWS**.
 
----
+Atualmente construindo base sólida em **infraestrutura, redes, Linux e segurança da informação**, com objetivo de atuar como **Cloud Security Engineer Jr**.
 
-### 🧠 About Me
+## 🎯 Foco de estudo
+- Linux e sistemas operacionais
+- Redes de computadores
+- Fundamentos de segurança da informação
+- Cloud Computing (AWS)
+- Segurança em ambientes cloud (IAM, redes, logs)
+- Automação básica com Python
 
-I'm currently building strong foundations in cybersecurity, systems engineering, and backend development.
-
----
-
-### 🔍 Currently Learning
-
-- Logic & Programming Fundamentals  
-- Linux Systems & Networking  
-- Python for Backend & Automation  
-- Java Backend + Cloud (AWS)  
-- Secure Coding & QA  
-- Cybersecurity Program (Santander)
-
----
+## 📂 Sobre este GitHub
+Este repositório documenta minha evolução prática, estudos e projetos voltados para **segurança em cloud**.
 
 ### 📫 Find Me
 
