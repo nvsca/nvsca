@@ -1,6 +1,5 @@
 <div align="center">
   <img src="assets/Motoca.svg" width="140" alt="Motorcycle logo" />
-</div>
 
 # Alexsandro C. Rodrigues 
 
