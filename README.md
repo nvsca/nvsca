@@ -4,7 +4,7 @@
 
 # Alexsandro C. Rodrigues
 
-<sub>Cloud Security em formação · foco em AWS</sub>
+<sub>Cloud Security em formação, foco em **AWS**</sub>
 
 </div>
 
