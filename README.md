@@ -2,7 +2,7 @@
   <img src="assets/Motoca.svg" width="140" alt="Motorcycle logo" />
 </div>
 
-# Alexsandro C. Rodrigues // nvsca
+# Alexsandro C. Rodrigues 
 
 Cloud Security em formação, com foco em **AWS**.
 
@@ -19,7 +19,7 @@ Atualmente construindo base sólida em **infraestrutura, redes, Linux e seguran�
 ## 📂 Sobre este GitHub
 Este repositório documenta minha evolução prática, estudos e projetos voltados para **segurança em cloud**.
 
-### 📫 Find Me
+## 📫 Find Me
 
 - GitHub: https://github.com/campaoz
 - Linkedin: https://www.linkedin.com/in/campaoz/
