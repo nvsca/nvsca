@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Motoca.svg" width="120"/>
+<img src=Motoca.svg width="120"/>
 
 # Alexsandro C. Rodrigues
 
