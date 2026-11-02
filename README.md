@@ -5,7 +5,7 @@
 ### Alexsandro C. Rodrigues
 
 <p>
-Atualmente construindo base sólida em infraestrutura, redes, Linux e segurança da informação.<br>
+Atualmente construindo base sólida em infraestrutura, redes, Linux.<br>
 </p>
 
 </div>
