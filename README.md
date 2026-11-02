@@ -4,8 +4,6 @@
 
 ### Alexsandro C. Rodrigues
 
-<sub>Cyber security em formação</sub>
-
 <p>
 Atualmente construindo base sólida em infraestrutura, redes, Linux e segurança da informação.<br>
 </p>
